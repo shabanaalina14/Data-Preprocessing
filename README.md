@@ -11,3 +11,13 @@ Data preprocessing is a crucial step in data analysis and machine learning. Here
 - Split Data: Divide the dataset into training and testing sets for evaluation.
 
 - Integrate Data: Combine data from multiple sources for comprehensive analysis.
+
+git clone https://github.com/shabanaalina14/USA_Startup_Investment_Analysis_Project/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanaalina14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
